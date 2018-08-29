@@ -1,2 +1,2 @@
 const app = "I don't do much."
-dodger.style.backgroundColor = "#FF69B4
+dodger.style.backgroundColor = "#FF69B4"
